@@ -52,3 +52,5 @@ LIBS += $$BOOSTPATH\\libboost_system-mgw49-mt-1_58.a
 LIBS += $$BOOSTPATH\\libboost_thread-mgw49-mt-1_58.a
 LIBS += $$BOOSTPATH\\libboost_chrono-mgw49-mt-1_58.a
 LIBS += $$BOOSTPATH\\libboost_random-mgw49-mt-1_58.a
+
+DISTFILES +=
