@@ -21,6 +21,7 @@
 #include <condition_variable>
 #include <thread>
 
+
 #if defined(__GNUC__) || defined(__MINGW32__)
 /// Disable boost warnings
 #pragma GCC system_header
